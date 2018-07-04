@@ -13,24 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment13.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="28june.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/28june.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="filehandling.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/filehandling.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,7 +61,7 @@
       <file leaf-file-name="assignment 16.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -94,12 +76,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment 17.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment 17.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 17.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="71" selection-start-line="14" selection-end-line="14" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4july.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4july.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment 18.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment 18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
               <folding>
-                <element signature="e#14#28#0" expanded="true" />
+                <element signature="e#13#34#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +137,8 @@
         <option value="$PROJECT_DIR$/assignment 16.py" />
         <option value="$PROJECT_DIR$/3july.py" />
         <option value="$PROJECT_DIR$/assignment 17.py" />
+        <option value="$PROJECT_DIR$/4july.py" />
+        <option value="$PROJECT_DIR$/assignment 18.py" />
       </list>
     </option>
   </component>
@@ -168,25 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment 17">
-    <configuration name="2july" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="assignment12" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2july.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.assignment 18">
     <configuration name="3july" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment12" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,7 +190,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4july" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assignment12" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4july.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,20 +244,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="assignment 18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="assignment12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.assignment 15" />
-      <item itemvalue="Python.2july" />
       <item itemvalue="Python.assignment 16" />
       <item itemvalue="Python.3july" />
       <item itemvalue="Python.assignment 17" />
+      <item itemvalue="Python.4july" />
+      <item itemvalue="Python.assignment 18" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment 18" />
+        <item itemvalue="Python.4july" />
         <item itemvalue="Python.assignment 17" />
         <item itemvalue="Python.3july" />
         <item itemvalue="Python.assignment 16" />
-        <item itemvalue="Python.2july" />
-        <item itemvalue="Python.assignment 15" />
       </list>
     </recent_temporary>
   </component>
@@ -295,10 +298,10 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50292826" side_tool="true" visible="true" weight="0.32755905" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5043924" side_tool="true" visible="true" weight="0.32755905" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49707174" visible="true" weight="0.32755905" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4956076" visible="true" weight="0.32755905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -335,20 +338,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignment 14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/30june.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment 15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -673,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment 16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
@@ -687,9 +676,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment 17.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="71" selection-start-line="14" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4july.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
           <folding>
-            <element signature="e#14#28#0" expanded="true" />
+            <element signature="e#13#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
